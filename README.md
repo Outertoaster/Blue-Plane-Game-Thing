@@ -4,7 +4,7 @@ a little retro shmup made in python
 
 # Controls
 that 👇️
-![placeholder controls](/home/outer/Documents/Projects/Blue-Plane-Game-Thing/README.md.4346.png)
+![placeholder controls](placeholder-controls.png)
 
 # Credits
 - Main graphics by Outertoaster
