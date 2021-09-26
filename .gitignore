@@ -1,0 +1,4 @@
+# Hide Mac OS and Windows generated crap + vscode
+desktop.ini
+.vscode
+.DS_Store
