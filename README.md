@@ -3,7 +3,7 @@
 a little retro shmup made in python
 
 # Controls
-that 👇️
+that 👇️\
 ![placeholder controls](placeholder-controls.png)
 
 # Credits
