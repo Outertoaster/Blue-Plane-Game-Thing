@@ -6,7 +6,7 @@ Its about little colourful jet fighters shooting each other.
 Guess which colour you play as.
 
 # Controls
-that ↘️  
+*This* ↘️  
 ![placeholder controls](placeholder-controls.png)  
 Arrow keys to move, space to shoot.
 
