@@ -3,7 +3,8 @@
 import pygame
 import os
 
-pygame.init()
+programIcon = pygame.image.load('tempicon.png') # set program name
+programName = "Blue Plane Game" # set program icon
 
 ## reminder to self - stick entire DB32 palette into table so i dont have to
 ## remember or keep copy/pasting rgb values from aseprite
@@ -13,7 +14,8 @@ def setWindow():
 	WIDTH, HEIGHT = 512, 288 # set initial window size
 	global WIN # make WIN global because its just easier to group stuff together in functions
 	WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-	pygame.display.set_caption("Blue Plane Game") # set window title
+	pygame.display.set_caption(programName) # set window title from var
+	pygame.display.set_icon(programIcon) # set app icon from var
 setWindow() # Call window draw function
 def main():
 	
