@@ -1,7 +1,7 @@
-![Game logo title thing](placeholder-title.png)
+![Game logo title thing](placeholder-banner.png)
 # Blue Plane Game Thing
 A little retro shmup made in python.  
-Its about little colourful jet fighters shooting each other.  
+Its about little rainbow jet fighters shooting each other.  
   
 Guess which colour you play as.
 
@@ -23,7 +23,7 @@ Arrow keys to move, space to shoot.
 
 - Start programming game base
 - Finish base menu assets
-- Impliment AI
+- Impliment enemies & enemy AI
 - Add options menu
 - Add title screen 
  
@@ -35,8 +35,9 @@ Arrow keys to move, space to shoot.
 
 
 ## Credits <a name="credits"></a>
-- Main graphics by [Outer](https://twitter.com/outertoaster)
-- Programming by [Kety](https://twitter.com/ketyfolf)
+- Main Artist [Outer](https://twitter.com/outertoaster)
+- Main Programmer - [Kety](https://twitter.com/ketyfolf)
+
 - Temporary graphics from [opengameart.org](http://opengameart.org/)
 - Music will likely be royalty free for a while, likely
  Evan Kings music until someone contributes something music wise
