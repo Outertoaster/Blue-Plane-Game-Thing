@@ -17,8 +17,9 @@ Guess which colour you play as.
 ![placeholder controls](placeholder-controls.png)  
 Arrow keys to move, space to shoot.
 
+=========
 ## To Do <a name="todo"></a>
-<u>Not yet done</u> 
+**Not yet done**
 
 - Start programming game base
 - Finish base menu assets
@@ -26,13 +27,13 @@ Arrow keys to move, space to shoot.
 - Add options menu
 - Add title screen 
  
-<u>Done</u>  
+**Done**
 
 - Basic player and enemy sprites
 - Base ground texture
 
 
-
+====
 ## Credits <a name="credits"></a>
 - Main graphics by [Outer](https://twitter.com/outertoaster)
 - Programming by [Kety](https://twitter.com/ketyfolf)
