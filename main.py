@@ -3,12 +3,11 @@
 import pygame
 import os
 
+import palette # load palette variables from file
+## remember to prepend "palette." to the colour variable
+
 programIcon = pygame.image.load('tempicon.png') # set program name
 programName = "Blue Plane Game" # set program icon
-
-## reminder to self - stick entire DB32 palette into table so i dont have to
-## remember or keep copy/pasting rgb values from aseprite
-DARKBLUE = (91,110,225)
 
 def setWindow():
 	WIDTH, HEIGHT = 512, 288 # set initial window size
@@ -28,7 +27,7 @@ def main():
 		for event in pygame.event.get():
 			if event.type == pygame.QUIT:
 				run = False
-		WIN.fill(DARKBLUE)
+		WIN.fill(palette.BLUE_1)
 		pygame.display.update()		
 	pygame.quit()
 

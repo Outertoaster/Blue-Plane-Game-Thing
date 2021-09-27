@@ -3,3 +3,5 @@ desktop.ini
 .vscode
 .DS_Store
 thumbs.db
+.idea
+__pycache__
