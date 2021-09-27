@@ -6,10 +6,12 @@ Its about little colourful jet fighters shooting each other.
 Guess which colour you play as.
 
 # Controls
-that 👇️  
-![placeholder controls](placeholder-controls.png)
+that 👇️
+![placeholder controls](placeholder-controls.png)  
+Arrow keys to move, space to shoot.
 
 # Credits
-- Main graphics by [Outertoaster](https://twitter.com/outertoaster)
-- Programming by [Kety-folf](https://twitter.com/ketyfolf)
+- Main graphics by [Outer](https://twitter.com/outertoaster)
+- Programming by [Kety](https://twitter.com/ketyfolf)
 - Temporary graphics from [opengameart.org](http://opengameart.org/)
+- Shit drawing of control scheme also by Outer
