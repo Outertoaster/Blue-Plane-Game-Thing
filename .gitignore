@@ -5,3 +5,4 @@ desktop.ini
 thumbs.db
 .idea  # from jetbrains pycharm editor
 __pycache__
+*.swp # vim swap files
