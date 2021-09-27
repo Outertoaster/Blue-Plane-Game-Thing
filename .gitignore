@@ -3,5 +3,5 @@ desktop.ini
 .vscode
 .DS_Store
 thumbs.db
-.idea # from jetbrains pycharm editor
+.idea  # from jetbrains pycharm editor
 __pycache__
