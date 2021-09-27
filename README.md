@@ -19,7 +19,7 @@ Arrow keys to move, space to shoot.
 
 
 ## To Do <a name="todo"></a>
-**Not yet done**
+**Not yet done** ❌️
 
 - Start programming game base
 - Finish base menu assets
@@ -27,7 +27,7 @@ Arrow keys to move, space to shoot.
 - Add options menu
 - Add title screen 
  
-**Done**
+**Done** ✔️
 
 - Basic player and enemy sprites
 - Base ground texture
