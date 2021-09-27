@@ -7,16 +7,13 @@ pygame.init()
 
 ## reminder to self - stick entire DB32 palette into table so i dont have to
 ## remember or keep copy/pasting rgb values from aseprite
-def setPal(): # set palette
-	global DARKBLUE
-	DARKBLUE = (91,110,225)
+DARKBLUE = (91,110,225)
 
 def setWindow():
 	WIDTH, HEIGHT = 512, 288 # set initial window size
 	global WIN # make WIN global because its just easier to group stuff together in functions
 	WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 	pygame.display.set_caption("Blue Plane Game") # set window title
-setPal()
 setWindow() # Call window draw function
 def main():
 	
