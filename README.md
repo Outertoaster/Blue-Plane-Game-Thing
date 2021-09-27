@@ -17,7 +17,7 @@ Guess which colour you play as.
 ![placeholder controls](placeholder-controls.png)  
 Arrow keys to move, space to shoot.
 
-=========
+
 ## To Do <a name="todo"></a>
 **Not yet done**
 
@@ -33,7 +33,7 @@ Arrow keys to move, space to shoot.
 - Base ground texture
 
 
-====
+
 ## Credits <a name="credits"></a>
 - Main graphics by [Outer](https://twitter.com/outertoaster)
 - Programming by [Kety](https://twitter.com/ketyfolf)
