@@ -40,4 +40,5 @@ Arrow keys to move, space to shoot.
 - Temporary graphics from [opengameart.org](http://opengameart.org/)
 - Music will likely be royalty free for a while, likely
  Evan Kings music until someone contributes something music wise
-- Shit drawing of control scheme also by Outer
+- Shit drawing of control scheme unfortunately also by Outer
+
